@@ -6,7 +6,7 @@ replace github.com/khulnasoft-lab/agent-plugins-grpc => ./agent-plugins-grpc
 
 require (
 	github.com/VirusTotal/gyp v0.9.0
-	github.com/gabriel-vasile/mimetype v1.4.8
+	github.com/gabriel-vasile/mimetype v1.4.10
 	github.com/hillu/go-yara/v4 v4.3.3
 	github.com/khulnasoft-lab/agent-plugins-grpc e7e03aab7da6
 	github.com/khulnasoft-lab/golang_sdk/client v0.0.0-20250125193251-84ea98b34f61
